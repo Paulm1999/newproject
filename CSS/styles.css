@@ -1,0 +1,40 @@
+body { 
+   background-color: grey;
+   width: 80%;
+}
+h1 {
+   color:red; 
+}
+p {
+   color: red;
+}
+p6 {
+   color: red; 
+}
+h3 {
+   color: red; 
+}
+ol {
+   color: red;
+}
+li {
+   color: red;
+}
+h5 {
+   color: red;
+}
+ul {
+   color: red;
+}
+th {
+   color: red;
+}
+td {
+  color: red;
+}
+label {
+      color: red;
+}
+img {
+    width: 50%;    
+}
