@@ -1,40 +1,101 @@
 body { 
-   background-color: grey;
-   width: 80%;
-}
+   width: 100%;
+    flex: auto;
+    justify-content: center;
 h1 {
-   color:red; 
+   color:red;   
+   text-align: center;
+    justify-content: center;
 }
 p {
    color: red;
+   text-align: center;
+    justify-content: center;
+}
+br {
+   justify-content: center;
 }
 p6 {
    color: red; 
+   text-align: center;
+    justify-content: center;
 }
 h3 {
-   color: red; 
-}
-ol {
-   color: red;
-}
-li {
-   color: red;
+   color: red;  
+   text-align: center;
+    justify-content: center;
 }
 h5 {
    color: red;
+   text-align: center;
+    justify-content: center;
 }
+ol {
+   color: red;  
+   text-align: center;
+    justify-content: center;
+}
+li {
+   color: red; 
+   text-align: center;
+    justify-content: center;
+}
+
 ul {
    color: red;
+   text-align: center;
+    justify-content: center;
+}
+hr {
+   justify-content: center;
+}
+table {
+   color: red;
+   text-align: center;
+    justify-content: center;
+}
+thead {
+   color: red; 
+   text-align: center;
+    justify-content: center;
+}
+tr{
+   color: red;
+   text-align: center;
+    justify-content: center;
 }
 th {
    color: red;
+   text-align: center;
+    justify-content: center;
 }
-td {
-  color: red;
+tbody {
+   color: red;
+   text-align: center;
+    justify-content: center;
+}
+form {
+   color: red
+   text-align: center;
+    justify-content: center;
 }
 label {
       color: red;
+      text-align: center;
+    justify-content: center;
+}
+input {
+   color: red
+   text-align: center;
+    justify-content: center;;
 }
 img {
-    width: 50%;    
+    width: 50%; 
+    justify-content: center;   
 }
+.container{
+   width: 80%;
+}
+
+
+
